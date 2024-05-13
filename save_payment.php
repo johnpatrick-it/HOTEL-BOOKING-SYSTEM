@@ -1,8 +1,8 @@
 <?php
 require_once 'dbconn.php';
-require 'C:\Users\Patrick\Downloads\HOTEL BOOKING SYSTEM\PHPmailer\src\Exception.php';//papalit ako nung path 
-require 'C:\Users\Patrick\Downloads\HOTEL BOOKING SYSTEM\PHPmailer\src\PHPMailer.php';//papalit ako nung path 
-require 'C:\Users\Patrick\Downloads\HOTEL BOOKING SYSTEM\PHPmailer\src\SMTP.php';//papalit ako nung path 
+require 'C:\xampp\htdocs\hotel\PHPmailer\src\Exception.php';//papalit ako nung path 
+require 'C:\xampp\htdocs\hotel\PHPmailer\src\PHPMailer.php';//papalit ako nung path 
+require 'C:\xampp\htdocs\hotel\PHPmailer\src\SMTP.php';//papalit ako nung path';
 
 
 use PHPMailer\PHPMailer\PHPMailer;
