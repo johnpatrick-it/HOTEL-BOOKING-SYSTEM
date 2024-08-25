@@ -1,5 +1,5 @@
 <?php
-require_once 'dbconn.php';
+require_once 'db.php';
 require 'C:\xampp\htdocs\hotel\PHPmailer\src\Exception.php';//papalit ako nung path 
 require 'C:\xampp\htdocs\hotel\PHPmailer\src\PHPMailer.php';//papalit ako nung path 
 require 'C:\xampp\htdocs\hotel\PHPmailer\src\SMTP.php';//papalit ako nung path';

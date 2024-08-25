@@ -1,6 +1,6 @@
 <?php
 
-require_once 'dbconn.php';
+require_once 'db.php';
 
 // Check kung yung inputs ay na set na
 if (isset($_POST['name'], $_POST['email'], $_POST['check-in'], $_POST['check-out'], $_POST['guests'], $_POST['room-type'])) {

@@ -1,5 +1,5 @@
 <?php
-require_once 'dbconn.php';
+require_once 'db.php';
 
 $guest_id = isset($_GET['guest_id']) ? intval($_GET['guest_id']) : 0;
 

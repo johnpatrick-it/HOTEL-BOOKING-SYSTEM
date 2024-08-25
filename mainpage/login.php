@@ -2,7 +2,7 @@
 
 session_start();
 
-require_once 'dbconn.php';
+require_once 'db.php';
 
 // Check kung submitted na yung form
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
